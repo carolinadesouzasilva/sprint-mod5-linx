@@ -1,0 +1,32 @@
+.tituloParagrafo {
+font-size: 24px;
+font: normal normal normal 20px/24px Helvetica Neue;
+letter-spacing: 0px;
+color: #888888;
+opacity: 1;
+}
+
+p {
+    font-size: 12px;
+    font-family: Helvetica Neue;
+
+}
+
+.section1Container {
+    
+    display: flex;
+    align-items: center;
+    flex: 2;
+    justify-content: center;
+    gap: 20px;
+    color: #888888;
+    font: 12px Helvetica Neue;
+
+}
+
+.textoParagrafo {
+    width: 50%;
+}
+.form {
+    width: 50%;
+}

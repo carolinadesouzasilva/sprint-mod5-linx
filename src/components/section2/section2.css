@@ -1,0 +1,36 @@
+.section-dois {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    font-family: Helvetica Neue;
+  }
+
+  .txtSection2 {
+    text-align: center;
+    font: Helvetica Neue;
+    color: #888888;
+    font-size: bold 18px;
+  }
+  
+  .grid-cards{
+    margin-top: 30px;
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    max-width: 900px;
+    gap: 30px;
+    justify-content: center;
+    
+  }
+  
+  .div-botao {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+  width: 260px;
+  }
+
+  
